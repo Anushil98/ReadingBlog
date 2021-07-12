@@ -1,7 +1,7 @@
 # ReadingBlog
 
 ## Introduction
-This is a blog where <a href="## About the author">I</a> talk about my thoughts about a book as I am reading it.
+This is a blog where <a href="about-the-author">I</a> talk about my thoughts about a book as I am reading it.
 
 ## About the Author
 I am a guy 🧔
